@@ -173,3 +173,19 @@
 .orcamento-dados p {
     margin: 8px 0;
 }
+
+.form-orcamento-produto h2 {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #fec63e;
+    line-height: 25px;
+    font-weight: bold;
+}
+
+.form-orcamento-produto p {
+    color: #FFF;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+    margin-top: 10px;
+}
